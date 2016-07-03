@@ -1,0 +1,6 @@
+-tweepy
+-shutil
+-requests
+-sys
+-jsonpickle
+-os
